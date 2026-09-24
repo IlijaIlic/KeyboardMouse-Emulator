@@ -1,0 +1,9 @@
+QPushButton[buttonType="accept"] {
+    background-color: #4CAF50;
+    color: white;
+}
+
+QPushButton[buttonType="decline"] {
+    background-color: #E05252;
+    color: white;
+}
